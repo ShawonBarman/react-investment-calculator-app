@@ -2,6 +2,8 @@
 
 This is a simple React application that allows users to calculate and visualize the potential growth of their investments over time, based on the initial investment, annual contributions, expected returns, and duration.
 
+### Live: https://react-app-investment-calculator.netlify.app/
+
 ## Features
 
 - Input fields for initial investment, annual investment, expected return, and duration.
